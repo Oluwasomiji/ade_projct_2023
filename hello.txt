@@ -1,0 +1,4 @@
+devops
+cat hello.txt
+[D[C[A[C[C[C[C[C[C[C[cd 
+[A[C
